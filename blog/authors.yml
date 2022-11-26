@@ -15,3 +15,14 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+yoko:
+  name: Yoko
+  title: Commander in Chief
+  image_url: https://github.com/nrolland.png
+
+
+nrolland:
+  name: Nicolas
+  title: title
+  image_url: https://github.com/nrolland.png
