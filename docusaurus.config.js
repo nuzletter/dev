@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Nuzletter Dev",
-	tagline: "Nuzletter",
+	tagline: "Nuzletter tagline",
 	url: "https://dev.nuzletter.com",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
